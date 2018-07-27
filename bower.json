@@ -1,0 +1,25 @@
+{
+  "name": "angular-card",
+  "description": "Angular directive for card https://github.com/jessepollak/card",
+  "main": "src/card.js",
+  "authors": [
+    "Sergey Gavruk <svgavruk@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "credit",
+    "card"
+  ],
+  "homepage": "https://github.com/SergioEnrique/angular-card",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "card": "^2.4.0"
+  }
+}
